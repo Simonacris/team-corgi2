@@ -105,3 +105,12 @@ div.bg-5 h3{
 }
 
 /*style="display:inline" */
+
+.img {
+    max-width: 100%;
+    height: auto;
+}
+
+.top7 {
+  margin-top:20px;
+}
